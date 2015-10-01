@@ -1,0 +1,56 @@
+1.	What is a code repository (often also called version control system) used for?
+A Code repository is a place to store all source code, related documents, local or online repositories and source code version control.
+2.	Why is it advantageous to use a code repository?
+It’s advantageous to use a code repository because its keep your code safe and store files you want to protect them
+3.	Describe the different “layers” of Software that exist on a typical computer and explain why there are different layers of software.
+A. Application software, which used by the computer system to perform a special functions or provide entertainment functions beyond the basic operation of the computer itself.
+B. System software, which is designed to directly operate the computer hardware, to provide basic functionality needed by users and other software, and to provide a platform for running application software and include the operating systems, device drivers and the utilities.
+C. Malicious software, which are computer programs developed to harm and disrupt computers.
+There are different layers of software because the range of tasks that can be performed with a modern computer is so large.
+4.	Describe what an algorithm is and explain why it is a useful “tool” to translate from a human level problem (we can think of) to a computer program.
+In computer science, an algorithm is a self-contained step-by-step set of operations to be performed. Also is a procedure or formula for solving a problem. It’s a useful tool because CPU only understands machine language instructions Programs that are written in a high-level language must be translated into machine language Depending on the language that a program has been written in, the programmer will use either a compiler or an interpreter to make the translation.
+5.	Write an algorithm that describes how to make scrambled eggs, try to use control words, like IF, WHEN, UNTIL, WHILE, WAIT, AND, OR.
+A)	Get Pan
+B)	Take the eggs
+C)	WHEN crack the eggs together put them in the pan
+D)	WAIT for them to boil well
+E)	WHEN they boil well take them out
+F)	Ready to eat them
+
+
+6.	Is Idle (the Python language shell) an Interpreter or an Compiler or both? Explain your answer.
+The Python language uses an interpreter, which is a program that both translates and executes the instructions in a high-level language program Interpreters combine translation and execution, they typically do not create separate machine language programs.
+
+For the practical part this lab please save the Python programs that you create and take screenshots of the execution (evaluation) of your programs.
+
+1)	Write a command in the Idle shell that says “Hello world” print(”Hello World”)
+Hello World
+ 
+
+
+
+
+
+2)	Write a program that produces the following output: Hello World I am in my ISD class right now
+Print(“Hello World”)
+Print(“I am in ISD class right now”)
+Hello World
+I am in my ISD class right now
+
+ 
+ 
+
+3) Write a program that asks the user for his/her name and produces an output
+like: Hi there, what is your name? >User input to be read< Hello (Users name) How are you?
+Var=input(“Hi there ,what is your name?”)
+Print(“Hello”, var ,”How are you?”)
+Hi there, what is you name?
+Hello … How are you?
+ 
+
+3)	Write a program that asks for two numbers (Python has all the basic Mathematical functions in place, like +,- etc.), adds them up and displays the Result.
+Var3=int(input(“write first number “))
+Var4=input(input(“write second number “))
+Var5=var3=var4
+Print(“sum “,var5)
+ 
