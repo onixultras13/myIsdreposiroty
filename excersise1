@@ -23,7 +23,8 @@ The Python language uses an interpreter, which is a program that both translates
 
 For the practical part this lab please save the Python programs that you create and take screenshots of the execution (evaluation) of your programs.
 
-1)	Write a command in the Idle shell that says “Hello world” print(”Hello World”)
+1)	Write a command in the Idle shell that says “Hello world” 
+print(”Hello World”)
 Hello World
  
 
